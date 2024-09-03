@@ -34,6 +34,4 @@ Course Provider: IBM
 
 Clone or download the repository to your local machine and explore the codebase to understand the AI-based Text Emotion Detector Web Application. 
 
-### Contact
 
-If you have any questions, please feel free to reach out via my [email](nl020@bucknell.edu) or [LinkedIn](https://www.linkedin.com/in/naing-oo-lwin-nolan/).
